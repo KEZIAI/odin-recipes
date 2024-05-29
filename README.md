@@ -1,0 +1,1 @@
+Hi! I'm Kezia, a teenager who wants to really start to learn to code using The Odin Project. Because the past years I've actually learned how to code 
